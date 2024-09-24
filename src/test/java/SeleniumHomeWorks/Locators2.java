@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class Locators {
+public class Locators2 {
     public static void main(String[] args) {
 
         WebDriver driver=new FirefoxDriver();

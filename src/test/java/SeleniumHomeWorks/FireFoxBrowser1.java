@@ -3,7 +3,7 @@ package SeleniumHomeWorks;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class FireFoxBrowser {
+public class FireFoxBrowser1 {
     public static void main(String[] args) {
         WebDriver driver=new FirefoxDriver();
 
